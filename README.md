@@ -18,3 +18,6 @@ Se puede ver desplegada en [https://tmdad-lab2.herokuapp.com/](https://tmdad-lab
        1. Enviar cada copia modificada de *TargetedTweet* a los tópicos que corresponda
 * Funcionamiento en el lado del cliente: No se esperan cambios
 
+
+### Estado
+Realizado
